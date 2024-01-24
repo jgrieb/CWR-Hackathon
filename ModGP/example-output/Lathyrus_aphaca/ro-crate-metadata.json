@@ -54,38 +54,11 @@
       "instrument": {
         "@id": "https://github.com/uio-mana/CWR-Hackathon/tree/main/ModGP"
       },
-        "result": [
-            {
-		"@id": "./"
-            }
-	]
-    },
-      {
-	  "@id": "https://github.com/uio-mana/CWR-Hackathon/tree/main/ModGP",
-	  "@type": "ComputationalWorkflow",
-	  "dct:conformsTo": "https://bioschemas.org/profiles/ComputationalWorkflow/1.0-RELEASE",
-	  "description": "BioDT CWR - ModGP",
-	  "name": "ModGP.R",
-	  "url": "https://github.com/uio-mana/CWR-Hackathon/blob/main/ModGP",
-	  "keywords": "SDM, crop wild relatives, genomics",
-	  "license": "",
-	  "creator": [
-	      {
-		  "@type": "Person",
-		  "@id": "https://orcid.org/0000-0002-4984-7646",
-		  "name": "Erik Kusch"
-	      },
-	      {
-		  "@type": "Person",
-		  "@id": "https://orcid.org/0000-0002-8045-6950",
-		  "name": "Desalegn Chala Gelete"
-	      }
-	  ]
-      },
-    {
-      "@id": "https://www.gbif.org/species/8301822",
-	"@type": "https://bioschemas.org/Taxon",
-	"name": "Lathyrus aphaca"
+      "result": [
+        {
+          "@id": "./"
+        }
+      ]
     }
   ]
 }
