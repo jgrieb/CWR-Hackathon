@@ -85,6 +85,7 @@
     {
       "@id": "https://www.gbif.org/species/8301822",
 	"@type": "https://bioschemas.org/Taxon",
-    }	"name": "Lathyrus aphaca"
-]
+	"name": "Lathyrus aphaca"
+    }
+  ]
 }
